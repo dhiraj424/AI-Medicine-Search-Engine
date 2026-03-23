@@ -1,5 +1,7 @@
 **Pharma-Insight: AI Semantic Search Engine**
 
+**Link** https://ai-medicine-search-engine-4o4phefifchq9wstzjwbk9.streamlit.app/
+
 **Objective**
 
 An NLP-based retrieval system that understands medical symptoms using Semantic Search instead of traditional keyword matching. Built for real-time pharmaceutical data analysis and patient safety.
