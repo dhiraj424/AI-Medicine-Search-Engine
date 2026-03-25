@@ -1,6 +1,6 @@
 **Pharma-Insight: AI Semantic Search Engine**
 
-**Link** https://ai-medicine-search-engine-4o4phefifchq9wstzjwbk9.streamlit.app/
+**Live Dashboard Link:** https://ai-medicine-search-engine-4o4phefifchq9wstzjwbk9.streamlit.app/
 
 **Objective**
 
